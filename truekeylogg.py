@@ -9,8 +9,8 @@ keys = []
 
 
 def write_email():
-  email_addr = "hackwifivideo@gmail.com"
-  passw = "PSPT1234"
+  email_addr = ""
+  passw = ""
 
 
   mess = EmailMessage()
